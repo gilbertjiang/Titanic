@@ -1,4 +1,9 @@
 # Titanic
+
+*** Update July 12, 2018
+Added a naive gender model which scores an accuracy of 0.81818, currently ranked top 5% on leadership board.
+
+*** Original README.md
 First entry to the Kaggle Titanic competition. Will update if I get better results.
 
 Notebook Titanic-RGBT2 has an accuracy 0.80382, currently ranked top 12% out of 11246 teams/users on the leaderboard (User: Gilbert Jiang)
